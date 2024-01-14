@@ -8,8 +8,8 @@ body {
 #gradient-canvas {
   width: 100%;
   height: 100%;
-  --gradient-color-1: #79737F;
-  --gradient-color-2: #D05E4D;
-  --gradient-color-3: #A93F49;
-  --gradient-color-4: #D68E69;
+  --gradient-color-1: #d2d2e1;
+  --gradient-color-2: #dde1e8;
+  --gradient-color-3: #e6ecf1;
+  --gradient-color-4: #505f79;
 }
